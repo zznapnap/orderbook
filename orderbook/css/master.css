@@ -1,0 +1,21 @@
+#trendGraph{
+  height: 400px;
+  background-color: #e9ecef;
+}
+h1{
+  text-align: center;
+}
+div{
+  margin-bottom: 10px;
+}
+table {
+    table-layout: fixed;
+    word-wrap: break-word;
+}
+div.btn.btn-primary{
+  float: right;
+}
+.scroll-card{
+  overflow-y: scroll;
+  height: 300px;
+}
